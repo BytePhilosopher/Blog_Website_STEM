@@ -1,14 +1,15 @@
-import './assets/main.css'
-import "bootstrap/dist/css/bootstrap.min.css"
-import "./components/css/ionicons.min.css"
-import "./components/js/swiper-bundle.min"
-import "./components/css/swiper-bundle.min.css"
-import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
+import './assets/main.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './components/css/ionicons.min.css';
 
-const app = createApp(App)
+import 'swiper/css/bundle'; // ✅ Proper Swiper CSS import
+// ❌ Removed old Swiper JS/CSS imports
 
-app.use(router)
+import { createApp } from 'vue';
+import App from './App.vue';
+import router from './router';
 
-app.mount('#app')
+const app = createApp(App);
+
+app.use(router);
+app.mount('#app');

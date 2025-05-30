@@ -5,10 +5,8 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-   base: '/Blog_Website_STEM/', 
-  plugins: [
-    vue(),
-  ],
+     plugins: [vue()],
+  base: '/Blog_Website_STEM/', // 👈 this is very important
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
