@@ -19,7 +19,7 @@
   >
      <swiper-slide >
       <div class="card cards">
-        <img src="src/assets/images/photo_2023-08-23_15-00-38.jpg" class="card-img-top" alt="...">
+        <img src="../assets/images/photo_2023-08-23_15-00-38.jpg" class="card-img-top" alt="...">
       <div class="card-body">
           <h5 class="card-title">Week One</h5>
           <p class="card-text">In the first week of the 2023 stem student’s journey, they delved into the exciting world of technology and programming. they learned the foundational language of the web, HTML (Hyper Text Markup Language), which is essential for structuring web content.  
@@ -29,7 +29,7 @@
     </swiper-slide> 
    <swiper-slide>
      <div class="card">
-       <img src="src/assets/images/smilegrouppic2.jpg" class="card-img-top" alt="...">
+       <img src="../assets/images/smilegrouppic2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
           <h5 class="card-title">Week Two</h5>
           <p class="card-text">As week 2 rolled in, they delved even deeper into the world of technology. They shifted to robotics and the versatile Arduino platform. they learned about the exciting potential of robotics, exploring how they're shaping the future and revolutionizing industries. And with Arduino, they gained the skills to create electronic wonders.    </p>
@@ -38,7 +38,7 @@
     </swiper-slide>
     <swiper-slide>
       <div class="card">
-        <img src="src/assets/images/smilegrouppic3.jpg" class="card-img-top" alt="...">
+        <img src="../assets/images/smilegrouppic3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
           <h5 class="card-title">Week Three</h5>
           <p class="card-text">In the third and fourth weeks of their internship program, they  continued their immersive journey through the world of aviation. These weeks not only provided them with exposure to different sectors within the industry but also helped them in identifying their passions and areas of interest.  </p>
@@ -48,7 +48,7 @@
     </swiper-slide>
     <swiper-slide>
       <div class="card">
-      <img src="src/assets/images/smilegrouppic4.jpg" class="card-img-top" alt="...">
+      <img src="../assets/images/smilegrouppic4.jpg" class="card-img-top" alt="...">
       <div class="card-body">
           <h5 class="card-title">Week Four</h5>
           <p class="card-text">In the third and fourth weeks of their internship program, they  continued their immersive journey through the world of aviation. These weeks not only provided them with exposure to different sectors within the industry but also helped them in identifying their passions and areas of interest.  </p>
@@ -57,7 +57,7 @@
     </swiper-slide>
     <swiper-slide>
       <div class="card">
-        <img src="src/assets/images/smilegrouppics.jpg" class="card-img-top" alt="...">
+        <img src="../assets/images/smilegrouppics.jpg" class="card-img-top" alt="...">
       <div class="card-body">
           <h5 class="card-title">Week Five</h5>
           <p class="card-text">In the fifth week they shifted their focus towards developing essential 21st century skills. In today's world it is not just intelligence and creativity that pave the way for success, but also our ability to effectively communicate, collaborate, think critically, and bring forth our creativity to solve real-world challenges.    </p>
@@ -66,7 +66,7 @@
     </swiper-slide>
     <swiper-slide>
       <div class="card">
-        <img src="src/assets/images/photo_2023-08-23_15-00-38.jpg" class="card-img-top" alt="...">
+        <img src="../assets/images/photo_2023-08-23_15-00-38.jpg" class="card-img-top" alt="...">
       <div class="card-body">
           <h5 class="card-title">Week Six</h5>
           <p class="card-text">In the fifth week they shifted their focus towards developing essential 21st century skills. In today's world it is not just intelligence and creativity that pave the way for success, but also our ability to effectively communicate, collaborate, think critically, and bring forth our creativity to solve real-world challenges.    </p>
