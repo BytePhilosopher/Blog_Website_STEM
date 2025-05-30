@@ -403,7 +403,7 @@ import "./js/bootstrap.bundle"
 import "./js/swiper-bundle.min"
 import "./js/script"
 import {Swiper,SwiperSlide} from "swiper/vue";
-import 'Swiper/css'
+import 'swiper/css'
 import 'swiper/css/pagination'
 import 'swiper/css/autoplay'
 import * as ionicons from 'ionicons/icons';
